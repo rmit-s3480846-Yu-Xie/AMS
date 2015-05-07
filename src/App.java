@@ -19,7 +19,7 @@ public class App
    public static void main(String[] args) 
    {   
 	  App a = new App(); 
-	  String options[] = {"Add Offering","Add Lecture","Add Lecturer", "Lecturer TimeTable", "Venue TimeTable", "View Menu"};  	  
+	  String options[] = {"Add Offering123132","Add Lecture","Add Lecturer", "Lecturer TimeTable", "Venue TimeTable", "View Menu"};  	  
 	  Menu m = new Menu("Main Menu", options);
 	  int resp;
 	  do {
